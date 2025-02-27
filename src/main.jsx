@@ -1,8 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import "./styles.css"; // Import the CSS file here
-
 import Home from "./home";
 import Ainews from "./ainews";
 import Kalkulator from "./kalkulator";
